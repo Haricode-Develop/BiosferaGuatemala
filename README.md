@@ -12,7 +12,7 @@
 
 <!-- Subtítulo/Caption -->
 <h3 align="center">
-  <a href="https://haricode.com/" style="text-decoration: none;">By Haricode / Biosfera</a>
+  <a href="https://haricode.com/" style="text-decoration: none;">By Haricode</a>
   
 </h3>
 
@@ -45,11 +45,8 @@
 
 <div align="center" style="background-color: #EF4956; padding: 20px; display: flex; justify-content: space-between; align-items: center;">
   <div align="left" >
-    <br>
-    <img src="URL_DE_TU_LOGO_IZQUIERDO" alt="Logo Izquierdo" style="width: 50px; height: auto;">
-   <img src="URL_DE_TU_LOGO_DERECHO" alt="Logo Derecho" style="width: 50px; height: auto;">
+    <img src="README_CONTENT/biosferaLogo.png" alt="Logo Izquierdo" style="width: 25%; height: auto; margin-top: 100px;">
    
- 
   </div>
  
 </div>
